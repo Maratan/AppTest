@@ -1,0 +1,36 @@
+c:\users\root\documents\visual studio 2012\Projects\AppTest\AppTest\bin\Debug\AppTest.exe
+c:\users\root\documents\visual studio 2012\Projects\AppTest\AppTest\bin\Debug\AppTest.pdb
+c:\users\root\documents\visual studio 2012\Projects\AppTest\AppTest\obj\Debug\AppTest.block.resources
+c:\users\root\documents\visual studio 2012\Projects\AppTest\AppTest\obj\Debug\AppTest.Form1.resources
+c:\users\root\documents\visual studio 2012\Projects\AppTest\AppTest\obj\Debug\AppTest.Properties.Resources.resources
+c:\users\root\documents\visual studio 2012\Projects\AppTest\AppTest\obj\Debug\AppTest.reg.resources
+c:\users\root\documents\visual studio 2012\Projects\AppTest\AppTest\obj\Debug\AppTest.success.resources
+c:\users\root\documents\visual studio 2012\Projects\AppTest\AppTest\obj\Debug\AppTest.csproj.GenerateResource.Cache
+c:\users\root\documents\visual studio 2012\Projects\AppTest\AppTest\obj\Debug\AppTest.exe
+c:\users\root\documents\visual studio 2012\Projects\AppTest\AppTest\obj\Debug\AppTest.pdb
+c:\users\root\documents\visual studio 2012\Projects\AppTest\AppTest\obj\Debug\AppTest.signin.resources
+C:\Users\root\Desktop\Документы\Статья\AppTest\AppTest\obj\Debug\AppTest.exe
+C:\Users\root\Desktop\Документы\Статья\AppTest\AppTest\obj\Debug\AppTest.pdb
+C:\Users\root\Desktop\Документы\Статья\AppTest\AppTest\obj\Debug\AppTest.block.resources
+C:\Users\root\Desktop\Документы\Статья\AppTest\AppTest\obj\Debug\AppTest.Form1.resources
+C:\Users\root\Desktop\Документы\Статья\AppTest\AppTest\obj\Debug\AppTest.Properties.Resources.resources
+C:\Users\root\Desktop\Документы\Статья\AppTest\AppTest\obj\Debug\AppTest.reg.resources
+C:\Users\root\Desktop\Документы\Статья\AppTest\AppTest\obj\Debug\AppTest.signin.resources
+C:\Users\root\Desktop\Документы\Статья\AppTest\AppTest\obj\Debug\AppTest.success.resources
+C:\Users\root\Desktop\Документы\Статья\AppTest\AppTest\obj\Debug\AppTest.csproj.GenerateResource.Cache
+C:\Users\root\Desktop\Документы\Статья\AppTest\AppTest\bin\Debug\AppTest.exe.config
+C:\Users\root\Desktop\Документы\Статья\AppTest\AppTest\bin\Debug\AppTest.exe
+C:\Users\root\Desktop\Документы\Статья\AppTest\AppTest\bin\Debug\AppTest.pdb
+C:\Users\root\Desktop\Документы\Статья\AppTest\AppTest\obj\Debug\AppTest.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\Документы\Статья2\AppTest\AppTest\bin\Debug\AppTest.exe.config
+C:\Users\root\Desktop\Документы\Статья2\AppTest\AppTest\obj\Debug\AppTest.exe
+C:\Users\root\Desktop\Документы\Статья2\AppTest\AppTest\obj\Debug\AppTest.pdb
+C:\Users\root\Desktop\Документы\Статья2\AppTest\AppTest\bin\Debug\AppTest.exe
+C:\Users\root\Desktop\Документы\Статья2\AppTest\AppTest\bin\Debug\AppTest.pdb
+C:\Users\root\Desktop\Документы\Статья2\AppTest\AppTest\obj\Debug\AppTest.block.resources
+C:\Users\root\Desktop\Документы\Статья2\AppTest\AppTest\obj\Debug\AppTest.Form1.resources
+C:\Users\root\Desktop\Документы\Статья2\AppTest\AppTest\obj\Debug\AppTest.Properties.Resources.resources
+C:\Users\root\Desktop\Документы\Статья2\AppTest\AppTest\obj\Debug\AppTest.reg.resources
+C:\Users\root\Desktop\Документы\Статья2\AppTest\AppTest\obj\Debug\AppTest.signin.resources
+C:\Users\root\Desktop\Документы\Статья2\AppTest\AppTest\obj\Debug\AppTest.success.resources
+C:\Users\root\Desktop\Документы\Статья2\AppTest\AppTest\obj\Debug\AppTest.csproj.GenerateResource.Cache
